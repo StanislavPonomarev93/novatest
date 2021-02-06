@@ -1,0 +1,10 @@
+.sliderSection {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: #fff;
+  max-width: 750px;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}

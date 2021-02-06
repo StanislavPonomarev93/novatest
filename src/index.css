@@ -1,0 +1,14 @@
+@import url('./fonts/fonts.css');
+@import url('./blocks/page/page.css');
+@import url('./blocks/header/header.css');
+@import url('./blocks/footer/footer.css');
+@import url('./blocks/description/description.css');
+@import url('./blocks/trailer/trailer.css');
+@import url('./blocks/sliderSection/sliderSection.css');
+@import url('./blocks/slider/slider.css');
+
+body {
+  background-color: #101010;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,36 @@
+.slider {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.slider__wrapper {
+  overflow: hidden;
+  max-width: 555px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.slider__container {
+  width: fit-content;
+  display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 30px;
+}
+
+.slider__button {
+  border: none;
+  padding: 0;
+  background-color: #fff;
+  cursor: pointer;
+  font-size: 0;
+}
+
+.slider__button:focus {
+  outline: none;
+}
+
+.slider__button:hover {
+  background-color: rgb(191, 205, 211);
+  border-radius: 15px;
+}

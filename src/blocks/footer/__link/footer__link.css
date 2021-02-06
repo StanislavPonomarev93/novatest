@@ -1,0 +1,10 @@
+.footer__link {
+  font-family: 'Helvetica Neue';
+  text-decoration: none;
+  color: #fff;
+  margin-right: 20px;
+}
+
+.footer__link:hover {
+  opacity: .7;
+}

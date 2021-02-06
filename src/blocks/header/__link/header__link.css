@@ -1,0 +1,16 @@
+.header__link {
+  font-family: 'Helvetica Neue';
+  font-size: 18px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #e71e6e;
+  text-align: center;
+  width: 165px;
+  margin-bottom: 5px;
+  transition: .5s;
+}
+
+.header__link:hover {
+  background-color: #cc1a61;
+  transition: .5s;
+}

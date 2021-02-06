@@ -1,0 +1,20 @@
+@import url('./__image/trailer__image.css');
+@import url('./__container-link/trailer__container-link.css');
+
+
+.trailer {
+  position: relative;
+  max-width: 750px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.trailer::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(97, 80, 80, 0.5);
+}

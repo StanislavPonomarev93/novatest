@@ -1,0 +1,14 @@
+@import url('./__container-two/description__container-two.css');
+@import url('./__container-one/description__container-one.css');
+@import url('./__subtitle/description__subtitle.css');
+@import url('./__title/description__title.css');
+@import url('./__container/description__container.css');
+
+.description {
+  max-width: 750px;
+  padding-bottom: 30px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #fff;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}

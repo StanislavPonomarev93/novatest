@@ -1,0 +1,12 @@
+.description__subtitle {
+  font-size: 18px;
+  font-weight: 600;
+  max-width: 455px;
+  margin: 0;
+  color:#4c4c4c;
+}
+
+.description__subtitle_padding {
+  padding-top: 23px;
+  padding-left: 30px;
+}

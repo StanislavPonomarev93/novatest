@@ -1,0 +1,9 @@
+.description__container-two {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.description__container-two .description__container:nth-child(2) {
+  margin-left: 60px;
+}
